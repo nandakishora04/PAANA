@@ -1,0 +1,6 @@
+{
+  "name": "Paana - Online Fashion & Lifestyle Store",
+  "description": "Discover trendsetting fashion, footwear, beauty, and accessories on Paana, inspired by Myntra. Explore deals, lightning delivery, and fresh drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
